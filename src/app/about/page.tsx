@@ -4,6 +4,7 @@ const page = () => {
   return (
     <div className='bg-blue-500'>
       <h1 className='text-3xl '>This is about page</h1>
+      <h1 className='text-3xl '>This is update page</h1>
     </div>
   )
 }
